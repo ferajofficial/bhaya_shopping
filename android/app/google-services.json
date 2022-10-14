@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "20874004291",
+    "project_id": "bhayastore-eff04",
+    "storage_bucket": "bhayastore-eff04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20874004291:android:bc7db746ef26760484d1f6",
+        "android_client_info": {
+          "package_name": "com.example.bhaya_store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20874004291-q8mvqac30ajg7c8i3pnhvvninqg7s9f6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1dPTR7xZD5N7Cm1R4D3l3en23dw0GDpM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20874004291-q8mvqac30ajg7c8i3pnhvvninqg7s9f6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
