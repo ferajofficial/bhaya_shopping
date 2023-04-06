@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "name": "build my app",
+            "type": "gradle",
+            "tasks": [
+                "build"
+            ]
+        }
+    ]
+}
